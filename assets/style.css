@@ -1,0 +1,37 @@
+.home{
+    background-image:url(./image/img5-transformed.jpeg) ;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+}
+
+.header-1{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.header{
+    padding-left: 50rem;
+    padding-top:  50rem;
+}
+.text1{
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    text-transform:lowercase ;
+    margin: auto;
+    padding: auto;
+}
+
+.indus{
+    background-image: url(./image/img8.jpg);
+    background-size: cover;
+}
+
+.pai{
+    background-image: url(./image/imge3.webp);
+    background-size: cover;
+}
